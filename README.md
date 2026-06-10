@@ -1,5 +1,5 @@
 # derealization
 
 # Tui bot manager for minecraft 1.12.2
-![gif](https://pinimg.com)
+![gif](https://pin.it/1cVxeGAXP)
 
