@@ -1,0 +1,13 @@
+{"level":"info","time":"2026-06-10T08:37:44+05:00","message":"Запуск Derealization Manager..."}
+{"level":"info","time":"2026-06-10T08:37:54+05:00","message":"Остановка всех ботов..."}
+{"level":"info","bot":"MinerBot","time":"2026-06-10T08:37:54+05:00","message":"Bot stopped"}
+{"level":"info","time":"2026-06-10T08:37:54+05:00","message":"Программа завершена."}
+{"level":"info","time":"2026-06-10T08:49:30+05:00","message":"Запуск Derealization Manager..."}
+{"level":"info","bot":"MinerBot","time":"2026-06-10T08:49:36+05:00","message":"Bot stopped"}
+{"level":"info","time":"2026-06-10T08:49:39+05:00","message":"Остановка всех ботов..."}
+{"level":"info","bot":"MinerBot","time":"2026-06-10T08:49:39+05:00","message":"Bot stopped"}
+{"level":"info","time":"2026-06-10T08:49:39+05:00","message":"Программа завершена."}
+{"level":"info","time":"2026-06-10T10:06:19+05:00","message":"Запуск Derealization Manager..."}
+{"level":"info","bot":"bot_1","time":"2026-06-10T10:06:24+05:00","message":"Bot stopped"}
+{"level":"info","time":"2026-06-10T12:10:08+05:00","message":"Запуск Derealization Manager..."}
+{"level":"fatal","error":"could not open a new TTY: open /dev/tty: no such device or address","time":"2026-06-10T12:10:08+05:00","message":"Ошибка запуска TUI"}

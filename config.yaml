@@ -1,0 +1,10 @@
+
+app:
+  log_level: "info"
+  log_file: "derealization.log"
+  max_bots: 10
+bots:
+  - name: "bot_1"
+    username: "randomname123"
+    server: "localhost:25565"
+    auth_mode: "offline"
