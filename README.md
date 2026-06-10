@@ -3,8 +3,10 @@
 # Tui bot manager for minecraft 1.12.2
 
 
-![Uploading Earthy sunrise moments with charm and ideas with soft aesthetic charm for natural everyday beauty 🍂 - Pin-802063014869260600.gif…]()
 
+
+
+<img width="480" height="270" alt="Tokyo Ghoul Jack" src="https://github.com/user-attachments/assets/9413d2f1-23e1-4b6e-91a0-ae21c197e91b" />
 
 
 
